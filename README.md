@@ -32,12 +32,12 @@ git clone git@github.com:Eliedson1979/pixelart.git
 cd pixelart
 ```
 
-### 3 - Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
+### 3 - Dentro da pasta do projeto, execute o index:
 ```
 Acesse o Index.html
 ```
 
-### 5 - Acesse a aplicação:
+### 4 - Acesse a aplicação:
 
 Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navegador.
 
