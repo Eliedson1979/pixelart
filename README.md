@@ -10,7 +10,7 @@
 
 Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto desenvolvemos uma aplicação de um quadro de pixels que permite ao usuário pintar ponto a ponto em cores de sua escolha
+Nesse projeto desenvolvi uma aplicação de um quadro de pixels que permite ao usuário pintar ponto a ponto em cores de sua escolha
 
 <br />
 
